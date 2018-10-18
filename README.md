@@ -24,4 +24,6 @@ Por ultimo esta por terminar la funcionalidad de niveles de USUARIOS que esta pr
 Espero que sea de su utilidad.
 
 DEMO: http://devfinest.com/gimax2
+USER:admin
+PASS:admin
 
