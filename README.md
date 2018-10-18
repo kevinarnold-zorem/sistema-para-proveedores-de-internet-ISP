@@ -19,6 +19,8 @@ son que si se elije una fecha anterior a la fecha de registro del cliente retarn
 es menor al pago fijo mensual la mensualidad sera registrada con deuda restante del total.
 
 
+Por ultimo esta por terminar la funcionalidad de niveles de USUARIOS que esta predefinido "admin" y "user" el admin-contara con permisos de administrador y el user-con permisos solo de registro de abono de mensualidades.
+
 Espero que sea de su utilidad.
 
 
