@@ -1,4 +1,4 @@
-# gimax2
+# sistema para proveedores de internet ISP
 SISTEMA PARA ISP
 SISTEMA PARA PROVEEDORES DE INTERNET
 
