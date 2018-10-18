@@ -26,5 +26,6 @@ Espero que sea de su utilidad.
 DEMO: http://devfinest.com/gimax2
 
 USER:admin
+
 PASS:admin
 
